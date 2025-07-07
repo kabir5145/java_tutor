@@ -1,3 +1,5 @@
+package com.company;
+
 public class cwh_34_recursion {
         //factorial 0 = 1
         //factorial(n) = n*(n-1) * ....1

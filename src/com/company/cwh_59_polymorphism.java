@@ -1,3 +1,5 @@
+package com.company;
+
 
 interface camera2{
     void takeSnap();
