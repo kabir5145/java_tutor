@@ -8,5 +8,6 @@ public class practice_set_15 {
         ArrayList<String> students= new ArrayList<>();
         students.add("kabir");
         students.add("raghav");
+
     }
 }
